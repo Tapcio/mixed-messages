@@ -1,7 +1,5 @@
 # mixed-messages
 
-Takes 3 pieces of information - day of the month, day of the week, gender
+Takes 5 pieces of information - age, salary, do you like green places, do you like pubs, do you want good transport
 
-throws nonsensical joke depending of the info
-
-User only inputs their Name and Gender when they open the program.
+Tells which Boroughs in London to live
